@@ -120,7 +120,7 @@
               <i class="menu-icon fa fa-desktop"></i>
               <span class="menu-text">
                 Master Data
-              </span>
+              </span>dsadsad
               <b class="arrow fa fa-angle-down"></b>
             </a>
 
